@@ -1,5 +1,5 @@
 # vue-demo
-
+### 用于debug Vue源码。
 ## Project setup
 ```
 npm install
